@@ -1,25 +1,9 @@
-body
-{
-    background-color: gray;
-    text-align: center;
-    line-height: 100vh;
-    margin: 0;
+body{
+
 }
 button
 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
-    vertical-align: middle;
-    width:80px;
-    height: 400px;
-    background-color: #ffffff;
-    color: #000000;
-
-}
-button.sharp
-{
-width: 50px;
-background-color: #000000;
-color: #ffffff;
 }
 
